@@ -1,0 +1,27 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutReshapeWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutIdleFunc referenced in function main
+main.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewDeleteProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewDetachShader
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+main.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+main.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+../GL/glut32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\cg-lab\Desktop\GLSL_hw3\x64\Debug\Hw3.exe : fatal error LNK1120: 25 unresolved externals
