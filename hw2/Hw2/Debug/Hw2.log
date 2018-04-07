@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\goldflower\desktop\hw2\hw2\main.cpp(51): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+  Hw2.vcxproj -> C:\Users\Goldflower\Desktop\hw2\Debug\Hw2_StudentID.exe
+  Hw2.vcxproj -> C:\Users\Goldflower\Desktop\hw2\Debug\Hw2_StudentID.pdb (Partial PDB)
